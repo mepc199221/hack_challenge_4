@@ -14,6 +14,6 @@
 
 | Hack | URL |
 | ------ | ------ |
-| hack_Python_1⚡ | [https://github.com/mepc199221/hack_html_1_h1 | Position or Free Mode](https://github.com/mepc199221/hack_python_1) |
+| hack_Python_1⚡ | https://github.com/mepc199221/hack_python_1 |
 
-Detalle: [https://github.com/SocialOplesk/hack_html_1/tree/main](https://github.com/SocialOplesk/hack_python_1)
+Detalle: https://github.com/SocialOplesk/hack_python_1
