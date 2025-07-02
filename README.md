@@ -16,4 +16,8 @@
 | ------ | ------ |
 | hack_Python_1⚡ | https://github.com/mepc199221/hack_python_1 |
 
+# Test de python
+![image](https://github.com/user-attachments/assets/b68789ea-0055-4546-945b-b0e1985a031a)
+
+
 Detalle: https://github.com/SocialOplesk/hack_python_1
